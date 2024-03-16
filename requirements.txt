@@ -1,0 +1,5 @@
+h5py
+ipykernel
+matplotlib
+numpy
+scipy
